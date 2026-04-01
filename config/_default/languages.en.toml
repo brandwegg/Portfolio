@@ -1,0 +1,31 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Johan Röjås"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+description = "My awesome website"
+dateFormat = "2 January 2006"
+
+  [params.author]
+  name = "Red Blowfish"
+  image = "img/avatar.png"
+  headline = "This is my website with my links"
+  bio = "A little bit about you"
+
+    [[params.author.links]]
+    email = "johan.rojas@branddesign.se"
+
+    [[params.author.links]]
+    github = "https://github.com/brandwegg"
+
+    [[params.author.links]]
+    linkedin = "https:/linkedin.com/in/johan-röjås"
+
+["params.author"]
+name = "Johan Röjås"
+headline = "Graphics Programmer"
+image = "profile_picture.png"
